@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Water",
+      "img": "",
+      "product_description": "Water description",
+      "id": 1,
+      "price": 13,
+      "quantity": 1
+    },
+    {
+      "name": "Milk",
+      "img": "",
+      "product_description": "Milk description",
+      "id": 2,
+      "price": 25,
+      "quantity": 1
+    },
+    {
+      "name": "Packet of nuts",
+      "img": "",
+      "product_description": "Packet of nuts descrition",
+      "id": 3,
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "Honey",
+      "img": "",
+      "product_description": "Honey description",
+      "id": 4,
+      "price": 10,
+      "quantity": 1
+    },
+    {
+      "name": "Apple",
+      "img": "",
+      "product_description": "Apple description",
+      "id": 5,
+      "price": 13,
+      "quantity": 1
+    }
+  ]
